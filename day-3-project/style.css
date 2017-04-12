@@ -1,0 +1,58 @@
+.intro{
+  text-align: justify;
+   vertical-align: top;
+   width: 70%;
+   font-size: 150%;
+   margin: 0 auto;
+   padding: .5em 1em;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+body{
+  background-color: white;
+  font: 13px/1.5 sans-serif;
+  margin: .3em 0;
+}
+
+p{
+  display: block;
+   -webkit-margin-before: 1em;
+   -webkit-margin-after: 1em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+}
+.welcome{
+  text-align: right;
+}
+
+.otherprojects{
+  width: 80%;
+  font-weight: bold;
+  margin: 1.5em auto;
+  text-align: left;
+  vertical-align: middle;
+}
+.otherprojects-item{
+  height: 175px;
+  min-width: 150px;
+  max-width: 300px;
+  line-height: 175px;
+  float: left;
+  width: 24.75%;
+}
+
+#footer{
+  clear: both;
+  text-align: center;
+  width: 70%;
+  margin: 10px auto;
+  border-top: .5px solid #aaa;
+}
+
+.icon{
+  display: inline-block;
+  text-align: center;
+}
